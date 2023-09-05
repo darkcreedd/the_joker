@@ -28,9 +28,9 @@ The Flutter Joke App is a fun and interactive mobile application that brings lau
 
 Follow these steps to get started with the app:
 
-1. **Installation**: Download and install the app from the [App Store](#) or [Google Play Store](#).
+**Installation**: clone the repository to your local device, update all packages using flutter pub get and run the app
 
-2. **Home Screen**: Upon launching the app, you'll be taken to the home screen, where you can browse jokes and customize your preferences.
+**Home Screen**: Upon launching the app, you'll be taken to the home screen, where you can browse jokes and customize your preferences.
 
 
 ## Filtering Jokes
